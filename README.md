@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @ferdianandaid
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+```My Name```
 
-<!---
-ferdianandaid/ferdianandaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Ferdi Ananda -  ](https://img.shields.io/badge/Ferdi_Ananda-_-005fff?style=for-the-badge&logo=Cachet&logoColor=%237ED321)](https://www.ferdiananda.net)
+
+
+```My Social Media```
+
+[![Facebook -  Ferdi Ananda](https://img.shields.io/badge/Facebook-_Ferdi_Ananda-1877F2?style=for-the-badge&logo=Facebook&logoColor=%231877F2)](https://facebook.com/ferdiananda.27)
+[![Instagram - @ferdiananda.id](https://img.shields.io/badge/Instagram-%40ferdiananda.id-E4405F?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://instagram.com/ferdiananda.id)
+[![Twitter - @ferdianandaid](https://img.shields.io/badge/Twitter-%40ferdianandaid-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=%231DA1F2)](https://twitter.com/ferdianandaid)
