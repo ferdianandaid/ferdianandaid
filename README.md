@@ -15,21 +15,19 @@
 [![Instagram - @ferdiananda.id](https://img.shields.io/badge/Instagram-%40ferdiananda.id-E4405F?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://instagram.com/ferdidesign.id)
 [![Twitter - @ferdianandaid](https://img.shields.io/badge/Twitter-%40ferdianandaid-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=%231DA1F2)](https://twitter.com/ferdianandaid)
 
-```Github Stats```
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ferdianandaid&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ferdianandaid&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ferdianandaid&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub followers](https://img.shields.io/github/followers/ferdianandaid?logo=Github&logoColor=%23ffff&style=for-the-badge)
-![Github stars](https://img.shields.io/github/stars/ferdianandaid?logo=github&style=for-the-badge)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ferdianandaid&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- thropy -->
-<a href="https://ferdianandaid.github.io/portfolio">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=ferdianandaid&column=7&theme=onedark"/>
-    </p>
-</a>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- status codes -->
-<a align="center" href="https://ferdianandaid.github.io/portfolio">
-    <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ferdianandaid&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferdianandaid&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
-    </p>
-</a>
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=ferdianandaid&icon=2&color=1)](https://visitcount.itsvg.in)
